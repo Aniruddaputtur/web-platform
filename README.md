@@ -1,14 +1,10 @@
-<!-- ====================================================== -->
-<!--                    PROFILE HEADER                      -->
-<!-- ====================================================== -->
-
 <h1 align="center">
   Hi 👋, I'm Anirudda Puttur
 </h1>
 
 <p align="center">
-  <img
-    src="./AP_Full_Stack_Developer_low_size.gif"
+  <img 
+    src="./AP_Full_Stack_Developer_low_size.gif" 
     alt="AP Full Stack Developer"
     width="100%"
   />
@@ -19,17 +15,10 @@
 </h3>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=aniruddaputtur&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="Profile Views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=aniruddaputtur&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
-
-<!-- ====================================================== -->
-<!--                       ABOUT ME                          -->
-<!-- ====================================================== -->
 
 ## 👨‍💻 About Me
 
@@ -41,20 +30,61 @@ I'm a passionate **Full Stack Developer** focused on building modern, reliable, 
 - 🤝 I'm looking for help with **Advanced Backend Development & System Design**
 - 💬 Ask me about **Web Development, JavaScript, APIs & Databases**
 - 📫 How to reach me: **aniruddaputtur@gmail.com**
-- 🚀 I enjoy turning ideas into real-world applications
-- 💡 Always learning, building, and improving
+- 📂 All of my projects are available on my **GitHub**
 
 ---
 
-<!-- ====================================================== -->
-<!--                    CURRENT WORK                         -->
-<!-- ====================================================== -->
+## 🤝 Connect With Me
 
-## 🚀 What I'm Working On
+<p align="left">
+  <a href="https://www.linkedin.com/in/anirudda-puttur-23b1a5294" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
 
-```text
-Frontend       →  HTML • CSS • JavaScript
-Backend        →  Node.js • REST APIs
-Databases      →  MongoDB • MySQL
-Tools          →  Git • GitHub • Postman
-Learning       →  Backend • Cloud • System Design
+  <a href="https://leetcode.com/u/aniruddaputtur/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" width="45" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,mysql,git,postman,python" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=aniruddaputtur&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddaputtur&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=aniruddaputtur&theme=tokyonight&no-frame=true&margin-w=10"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+<p align="center">
+  <b>💻 Build • Code • Deploy • Repeat 🚀</b>
+</p>
